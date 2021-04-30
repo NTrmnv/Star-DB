@@ -1,0 +1,17 @@
+.header{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.header h2 a{
+    text-decoration: none;
+}
+.header ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+.header ul a:hover{
+    text-decoration: none;
+    font-size: 17px;
+}
